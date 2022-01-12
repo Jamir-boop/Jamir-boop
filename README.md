@@ -1,6 +1,6 @@
 ### Hi there, I'm Jamir - aka [jxmir\_][website] 👋
 
-## I'm a Student, Artist, Developer, and Passionate Lover!!
+## I'm a Student, Artist, Developer, and Passionate Programmer!!
 
 -   🎨 I just launched my last ilustration: [Instagram!][instagram]!
 -   🌱 I’m currently learning everything 🤣
