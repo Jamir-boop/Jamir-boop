@@ -1,9 +1,9 @@
-### Hi there, I'm Jamir - aka [jxmir\_][website] 👋
+### Hi there, I'm Jamir - aka [jxmir\_][website]
 
 ## I'm a Student, Artist, Developer, and Passionate Programmer!!
 
 -   🎨 I just launched my last ilustration: [Instagram!][instagram]!
--   🌱 I’m currently learning everything 🤣
+-   🌱 I’m currently learning everything
 -   👯 I’m looking to collaborate with other developers
 -   🥅 2022 Goals: Learn AI,shotgun.js, WebAssembly and many more
 -   ⚡ Fun fact: I love to draw and play csgo
