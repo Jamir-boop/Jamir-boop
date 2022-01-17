@@ -5,7 +5,7 @@
 -   🎨 I just launched my last ilustration: [Instagram!][instagram]!
 -   🌱 I’m currently learning everything
 -   👯 I’m looking to collaborate with other developers
--   🥅 2022 Goals: Learn AI,shotgun.js, WebAssembly and many more
+-   🥅 2022 Goals: Learn AI, gun.js, WebAssembly and work with the pokemon API.
 -   ⚡ Fun fact: I love to draw and play csgo
 
 ### Connect with me:
