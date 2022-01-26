@@ -4,7 +4,7 @@
         <img src="assets/image/index.jpg" alt="portfolio" width="100%">
     </a>
 </div>
-<br><br>
+<br>
 
 ### Hi there, I'm Jamir - aka [jxmir\_][website] 👋
 ## I'm a Student, Artist, Developer, and automation maniac!!
