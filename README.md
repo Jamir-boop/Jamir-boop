@@ -1,6 +1,13 @@
-### Hi there, I'm Jamir - aka [jxmir\_][website] 👋
+<br/>
+<div align="center">
+    <a href="https://epic-jamir-portfolio.netlify.app">
+        <img src="assets/image/index.jpg" alt="portfolio" width="100%">
+    </a>
+</div>
+<br><br>
 
-## I'm a Student, Artist, Developer, and Passionate Lover!!
+### Hi there, I'm Jamir - aka [jxmir\_][website] 👋
+## I'm a Student, Artist, Developer, and automation maniac!!
 
 -   🎨 I just launched my last ilustration: [Instagram!][instagram]!
 -   🌱 I’m currently learning everything 🤣
