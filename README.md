@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-    <a href="https://epic-jamir-portfolio.netlify.app">
+    <a href="https://jeiservargas.netlify.app">
         <img src="assets/image/index.jpg" alt="portfolio" width="100%">
     </a>
 </div>
@@ -50,7 +50,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 
-[website]: https://epic-jamir-portfolio.netlify.app/
+[website]: https://jeiservargas.netlify.app
 [youtube]: https://www.youtube.com/channel/UCM9ysYX7CHXGmr5EpYzZj8g
 [instagram]: https://www.instagram.com/jxmir_/
 [linkedin]: https://www.linkedin.com/in/jamir-momo-388717176/
