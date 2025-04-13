@@ -9,10 +9,8 @@
 ### Hi there, I'm Jamir - aka [jxmir\_][website] 👋
 ## I'm an Artist, Developer, and Automation enjoyer!!
 
--   🎨 I just launched my last ilustration: [Instagram!][instagram]!
 -   🌱 I’m currently learning everything about AutomationAnywhere.
 -   👯 I’m looking to collaborate with other developers.
--   🥅 2023 Goals: Learn AI, gun.js, WebAssembly and work with the pokemon API.
 -   ⚡ Fun fact: I love to draw and play CS
 
 ### Connect with me:
