@@ -9,12 +9,7 @@
 ### Hi there, I'm Jamir
 ## I'm Developer, Artist and Automation enjoyer!!
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" fill="white" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Jamir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
+## Let's work together!
 
 [<img align="left" alt="AutomationAnywhere" width="100px" src="https://www.automationanywhere.com/sites/default/files/images/default-images/logo-aa-new.svg" />][website]
 
