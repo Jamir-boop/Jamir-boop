@@ -7,9 +7,9 @@
 <br>
 
 ### Hi there, I'm Jamir
-## I'm Developer, Artist and Automation enjoyer!!
+I'm Developer, Artist and Automation enjoyer!!
 
-## Let's work together!
+Let's work together!
 
 [<img align="left" alt="AutomationAnywhere" width="100px" src="https://www.automationanywhere.com/sites/default/files/images/default-images/logo-aa-new.svg" />][website]
 
