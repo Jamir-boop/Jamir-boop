@@ -6,8 +6,8 @@
 </div>
 <br>
 
-### Hi there, I'm Jamir
-I'm Developer, Artist and Automation enjoyer!!
+### Hi there
+I'm Jamir full stack developer specialized on AI and Automation, from Peru 🇵🇪
 
 Let's work together!
 
