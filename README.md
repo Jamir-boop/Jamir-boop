@@ -1,13 +1,5 @@
-<br/>
-<div align="center">
-    <a href="#">
-        <img src="assets/image/index.jpg" alt="portfolio" width="100%">
-    </a>
-</div>
-<br>
-
 ### Hi there
-I'm Jamir full stack developer specialized on AI and Automation, from Peru 🇵🇪
+I'm Jamir full stack developer specialized on AI and Automation and Community Contributor from Peru 🇵🇪
 
 Let's work together! - [![Badge](https://img.shields.io/badge/@jamir-blue?style=flat&logo=gmail&logoColor=white&link=mailto:jeiser_vargas@outlook.com)](mailto:jeiser_vargas@outlook.com)
 
