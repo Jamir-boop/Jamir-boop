@@ -161,8 +161,8 @@ Full-stack developer focused on AI, automation, browser tooling, and user custom
         </p>
         <p align="center">
           <img
-            src="https://img.shields.io/badge/Chrome-Edge-Firefox-4285f4?style=flat-square&logo=googlechrome&logoColor=white"
-            alt="Chrome, Edge and Firefox"
+            src="https://img.shields.io/badge/Browsers-Chrome%20%7C%20Edge%20%7C%20Firefox-4285F4?style=flat-square&logo=googlechrome&logoColor=white"
+            alt="Chrome and Firefox"
           >
           <img
             src="https://img.shields.io/github/stars/Jamir-boop/better-automationanywhere?style=flat-square&logo=github"
