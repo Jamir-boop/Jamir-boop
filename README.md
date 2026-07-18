@@ -1,64 +1,18 @@
-<p align="center">
-  <a href="https://github.com/Jamir-boop">
-    <img src="https://github.com/Jamir-boop.png" width="160" alt="Jamir">
-  </a>
-</p>
+# Jamir
 
-<h1 align="center">Jamir</h1>
+Full-stack developer focused on AI, automation, browser tooling, and user customization.
 
-<p align="center">
-  Full-stack developer focused on AI, automation, browser tooling, and user customization.
-</p>
+[![UserStyles](https://img.shields.io/badge/UserStyles-39.8K%2B_installs-7c3aed?style=flat-square&logo=css3&logoColor=white)](https://userstyles.world/user/jamir-boop?page=1&sort=mostinstalls)
+[![GitHub followers](https://img.shields.io/github/followers/Jamir-boop?style=flat-square&logo=github&label=Followers)](https://github.com/Jamir-boop?tab=followers)
+[![Email](https://img.shields.io/badge/Contact-Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:jeiser_vargas@outlook.com)
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&vCenter=true&width=650&lines=Full-stack+developer;AI+and+automation+engineer;Browser+extension+developer;UserStyles+creator+with+39.8K%2B+installs;Community+contributor+from+Peru"
-      alt="Typing SVG"
-    >
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://userstyles.world/user/jamir-boop?page=1&sort=mostinstalls">
-    <img
-      src="https://img.shields.io/badge/UserStyles-39.8K%2B_installs-7c3aed?style=for-the-badge&logo=css3&logoColor=white"
-      alt="UserStyles installs"
-    >
-  </a>
-  <a href="https://github.com/Jamir-boop?tab=followers">
-    <img
-      src="https://img.shields.io/github/followers/Jamir-boop?style=for-the-badge&logo=github&label=Followers"
-      alt="GitHub followers"
-    >
-  </a>
-  <a href="mailto:jeiser_vargas@outlook.com">
-    <img
-      src="https://img.shields.io/badge/Contact-Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"
-      alt="Email"
-    >
-  </a>
-</p>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Jamir-boop&style=for-the-badge&color=7c3aed"
-    alt="Profile views"
-  >
-</p>
-
----
-
-<details open>
-  <summary><h2>About Me</h2></summary>
+## About
 
 - Full-stack developer specializing in AI and automation
 - Automation engineer working with Automation Anywhere
 - Creator of browser extensions, UserStyles, scripts, and developer tools
-- PowerShell user
+- PowerShell Master
 - Community contributor from Peru 🇵🇪
-
-</details>
 
 <details open>
   <summary><h2>Top UserStyles Projects</h2></summary>
@@ -162,97 +116,73 @@
 <details open>
   <summary><h2>Top Open-Source Projects</h2></summary>
 
-  <p align="left">
-    <a href="https://github.com/Jamir-boop/better-automationanywhere">
-      <img
-        width="420"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Jamir-boop&repo=better-automationanywhere&theme=react&bg_color=1F222E&title_color=7c3aed&text_color=ffffff&hide_border=true&icon_color=facc15"
-        alt="Better Automation Anywhere"
-      >
-    </a>
-    <a href="https://github.com/Jamir-boop/minimalisticfox">
-      <img
-        width="420"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Jamir-boop&repo=minimalisticfox&theme=react&bg_color=1F222E&title_color=7c3aed&text_color=ffffff&hide_border=true&icon_color=facc15"
-        alt="MinimalisticFox"
-      >
-    </a>
-    <a href="https://github.com/Jamir-boop/ResourcesSaverExt">
-      <img
-        width="420"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Jamir-boop&repo=ResourcesSaverExt&theme=react&bg_color=1F222E&title_color=7c3aed&text_color=ffffff&hide_border=true&icon_color=facc15"
-        alt="Resources Saver Extension"
-      >
-    </a>
-    <a href="https://github.com/Jamir-boop/AngryMouse">
-      <img
-        width="420"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Jamir-boop&repo=AngryMouse&theme=react&bg_color=1F222E&title_color=7c3aed&text_color=ffffff&hide_border=true&icon_color=facc15"
-        alt="AngryMouse"
-      >
-    </a>
-    <a href="https://github.com/Jamir-boop/awesome-userscripts">
-      <img
-        width="420"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Jamir-boop&repo=awesome-userscripts&theme=react&bg_color=1F222E&title_color=7c3aed&text_color=ffffff&hide_border=true&icon_color=facc15"
-        alt="Awesome UserScripts"
-      >
-    </a>
-    <a href="https://github.com/Jamir-boop/premiere-timer">
-      <img
-        width="420"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Jamir-boop&repo=premiere-timer&theme=react&bg_color=1F222E&title_color=7c3aed&text_color=ffffff&hide_border=true&icon_color=facc15"
-        alt="Premiere Timer"
-      >
-    </a>
-  </p>
-
-  <a href="https://github.com/Jamir-boop?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="View all repositories"
-    >
-  </a>
-
-</details>
-
-<details open>
-  <summary><h2>Tools and Technologies</h2></summary>
-
-  <p>
-    <img src="https://skillicons.dev/icons?i=powershell,js,ts,nodejs,python,html,css,git,github,vscode" alt="Tools and technologies">
-  </p>
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Jamir-boop/minimalisticfox">
+          <img
+            src="https://github.com/user-attachments/assets/b31692f5-84b7-43a3-9ebf-dbd563a5c6f7"
+            width="100%"
+            alt="MinimalFox preview"
+          >
+        </a>
+        <h3 align="center">
+          <a href="https://github.com/Jamir-boop/minimalisticfox">
+            MinimalFox
+          </a>
+        </h3>
+        <p align="center">
+          Minimal Firefox interface focused on reducing clutter while remaining simple and usable.
+        </p>
+        <p align="center">
+          <img
+            src="https://img.shields.io/badge/Firefox-userChrome.css-ff7139?style=flat-square&logo=firefoxbrowser&logoColor=white"
+            alt="Firefox userChrome.css"
+          >
+          <img
+            src="https://img.shields.io/github/stars/Jamir-boop/minimalisticfox?style=flat-square&logo=github"
+            alt="MinimalFox stars"
+          >
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Jamir-boop/better-automationanywhere#installation">
+          <img
+            src="https://github.com/Jamir-boop/automationanywhere-improvements/assets/73477811/f7c6eec2-409f-495d-88e3-028e5b6d4593"
+            width="100%"
+            alt="Better Automation Anywhere preview"
+          >
+        </a>
+        <h3 align="center">
+          <a href="https://github.com/Jamir-boop/better-automationanywhere#installation">
+            Better Automation Anywhere
+          </a>
+        </h3>
+        <p align="center">
+          Browser extension adding developer controls, UI improvements, and productivity tools to Automation Anywhere.
+        </p>
+        <p align="center">
+          <img
+            src="https://img.shields.io/badge/Chrome-Edge-Firefox-4285f4?style=flat-square&logo=googlechrome&logoColor=white"
+            alt="Chrome, Edge and Firefox"
+          >
+          <img
+            src="https://img.shields.io/github/stars/Jamir-boop/better-automationanywhere?style=flat-square&logo=github"
+            alt="Better Automation Anywhere stars"
+          >
+        </p>
+      </td>
+    </tr>
+  </table>
 
 </details>
 
-<details open>
-  <summary><h2>GitHub Statistics</h2></summary>
+## Tools
 
-  <p align="center">
-    <img
-      width="49%"
-      src="https://github-readme-stats.vercel.app/api?username=Jamir-boop&show_icons=true&theme=react&bg_color=1F222E&title_color=7c3aed&text_color=ffffff&hide_border=true&icon_color=facc15"
-      alt="GitHub statistics"
-    >
-    <img
-      width="49%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamir-boop&layout=compact&theme=react&bg_color=1F222E&title_color=7c3aed&text_color=ffffff&hide_border=true"
-      alt="Most used languages"
-    >
-  </p>
+`PowerShell` · `JavaScript` · `TypeScript` · `Node.js` · `Python` · `HTML` · `CSS` · `Git` · `Browser Extensions`
 
-  <p align="center">
-    <img
-      width="70%"
-      src="https://streak-stats.demolab.com?user=Jamir-boop&theme=react&hide_border=true&background=1F222E&ring=7C3AED&fire=FACC15&currStreakLabel=7C3AED"
-      alt="GitHub contribution streak"
-    >
-  </p>
+## Contact
 
-</details>
-
----
-
-<p align="center">
-  <strong>AI · Automation · Browser Extensions · UserStyles · PowerShell</strong>
-</p>
+- GitHub: [@Jamir-boop](https://github.com/Jamir-boop)
+- UserStyles: [jamir-boop](https://userstyles.world/user/jamir-boop?page=1&sort=mostinstalls)
+- Email: [jeiser_vargas@outlook.com](mailto:jeiser_vargas@outlook.com)
