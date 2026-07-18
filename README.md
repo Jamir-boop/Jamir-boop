@@ -6,8 +6,6 @@ Full-stack developer focused on AI, automation, browser tooling, and user custom
 [![GitHub followers](https://img.shields.io/github/followers/Jamir-boop?style=flat-square&logo=github&label=Followers)](https://github.com/Jamir-boop?tab=followers)
 [![Email](https://img.shields.io/badge/Contact-Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:jeiser_vargas@outlook.com)
 
-## About
-
 - Full-stack developer specializing in AI and automation
 - Automation engineer working with Automation Anywhere
 - Creator of browser extensions, UserStyles, scripts, and developer tools
@@ -121,7 +119,7 @@ Full-stack developer focused on AI, automation, browser tooling, and user custom
       <td width="50%" valign="top">
         <a href="https://github.com/Jamir-boop/minimalisticfox">
           <img
-            src="https://github.com/user-attachments/assets/b31692f5-84b7-43a3-9ebf-dbd563a5c6f7"
+            src="https://github.com/user-attachments/assets/26082e56-e0bb-4836-8a1c-072bde8b9d53"
             width="100%"
             alt="MinimalFox preview"
           >
@@ -148,7 +146,7 @@ Full-stack developer focused on AI, automation, browser tooling, and user custom
       <td width="50%" valign="top">
         <a href="https://github.com/Jamir-boop/better-automationanywhere#installation">
           <img
-            src="https://github.com/Jamir-boop/automationanywhere-improvements/assets/73477811/f7c6eec2-409f-495d-88e3-028e5b6d4593"
+            src="https://github.com/user-attachments/assets/e177dbc7-28e5-41ff-a638-b389e8b028ac"
             width="100%"
             alt="Better Automation Anywhere preview"
           >
@@ -176,13 +174,3 @@ Full-stack developer focused on AI, automation, browser tooling, and user custom
   </table>
 
 </details>
-
-## Tools
-
-`PowerShell` · `JavaScript` · `TypeScript` · `Node.js` · `Python` · `HTML` · `CSS` · `Git` · `Browser Extensions`
-
-## Contact
-
-- GitHub: [@Jamir-boop](https://github.com/Jamir-boop)
-- UserStyles: [jamir-boop](https://userstyles.world/user/jamir-boop?page=1&sort=mostinstalls)
-- Email: [jeiser_vargas@outlook.com](mailto:jeiser_vargas@outlook.com)
