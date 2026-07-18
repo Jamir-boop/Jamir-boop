@@ -1,5 +1,3 @@
-# Jamir
-
 Full-stack developer focused on AI, automation, browser tooling, and user customization.
 
 [![UserStyles](https://img.shields.io/badge/UserStyles-39.8K%2B_installs-7c3aed?style=flat-square&logo=css3&logoColor=white)](https://userstyles.world/user/jamir-boop?page=1&sort=mostinstalls)
