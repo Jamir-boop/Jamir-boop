@@ -13,10 +13,6 @@ Full-stack developer focused on AI, automation, browser tooling, and user custom
 <details open>
   <summary><h2>Top UserStyles Projects</h2></summary>
 
-  <p>
-    Top three projects have more than <strong>39,800 combined installs</strong>.
-  </p>
-
   <table>
     <tr>
       <td width="33.33%" valign="top">
