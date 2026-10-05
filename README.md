@@ -1,6 +1,6 @@
 Full-stack developer focused on AI, automation, browser tooling, and user customization.
 
-[![UserStyles](https://img.shields.io/badge/UserStyles-39.8K%2B_installs-7c3aed?style=flat-square&logo=css3&logoColor=white)](https://userstyles.world/user/jamir-boop?page=1&sort=mostinstalls)
+[![UserStyles](https://img.shields.io/badge/UserStyles-53.1K%2B_installs-7c3aed?style=flat-square&logo=css3&logoColor=white)](https://userstyles.world/user/jamir-boop?page=1&sort=mostinstalls)
 [![GitHub followers](https://img.shields.io/github/followers/Jamir-boop?style=flat-square&logo=github&label=Followers)](https://github.com/Jamir-boop?tab=followers)
 [![Email](https://img.shields.io/badge/Contact-Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:jeiser_vargas@outlook.com)
 
@@ -30,40 +30,16 @@ Full-stack developer focused on AI, automation, browser tooling, and user custom
         </h3>
         <p align="center">
           <img
-            src="https://img.shields.io/badge/installs-33.6K-7c3aed?style=flat-square&logo=css3&logoColor=white"
-            alt="33.6K installs"
+            src="https://img.shields.io/badge/installs-40K-7c3aed?style=flat-square&logo=css3&logoColor=white"
+            alt="40K installs"
           >
           <img
-            src="https://img.shields.io/badge/views-1%2C311-4b5563?style=flat-square"
-            alt="1,311 views"
+            src="https://img.shields.io/badge/views-1%2C470-4b5563?style=flat-square"
+            alt="1,470 views"
           >
           <img
             src="https://img.shields.io/badge/rating-5%2F5-16a34a?style=flat-square"
             alt="5 out of 5 rating"
-          >
-        </p>
-      </td>
-      <td width="33.33%" valign="top">
-        <a href="https://userstyles.world/style/21667/default-slug">
-          <img
-            src="https://userstyles.world/preview/21667/0.webp"
-            width="100%"
-            alt="No Video Player Music YouTube preview"
-          >
-        </a>
-        <h3 align="center">
-          <a href="https://userstyles.world/style/21667/default-slug">
-            No Video Player Music YouTube
-          </a>
-        </h3>
-        <p align="center">
-          <img
-            src="https://img.shields.io/badge/installs-4%2C303-7c3aed?style=flat-square&logo=css3&logoColor=white"
-            alt="4,303 installs"
-          >
-          <img
-            src="https://img.shields.io/badge/views-253-4b5563?style=flat-square"
-            alt="253 views"
           >
         </p>
       </td>
@@ -82,12 +58,36 @@ Full-stack developer focused on AI, automation, browser tooling, and user custom
         </h3>
         <p align="center">
           <img
-            src="https://img.shields.io/badge/installs-1%2C915-7c3aed?style=flat-square&logo=css3&logoColor=white"
-            alt="1,915 installs"
+            src="https://img.shields.io/badge/installs-5%2C892-7c3aed?style=flat-square&logo=css3&logoColor=white"
+            alt="5,892 installs"
           >
           <img
-            src="https://img.shields.io/badge/views-242-4b5563?style=flat-square"
-            alt="242 views"
+            src="https://img.shields.io/badge/views-448-4b5563?style=flat-square"
+            alt="448 views"
+          >
+        </p>
+      </td>
+      <td width="33.33%" valign="top">
+        <a href="https://userstyles.world/style/21667/default-slug">
+          <img
+            src="https://userstyles.world/preview/21667/0.webp"
+            width="100%"
+            alt="No Video Player Music YouTube preview"
+          >
+        </a>
+        <h3 align="center">
+          <a href="https://userstyles.world/style/21667/default-slug">
+            No Video Player Music YouTube
+          </a>
+        </h3>
+        <p align="center">
+          <img
+            src="https://img.shields.io/badge/installs-5%2C711-7c3aed?style=flat-square&logo=css3&logoColor=white"
+            alt="5,711 installs"
+          >
+          <img
+            src="https://img.shields.io/badge/views-323-4b5563?style=flat-square"
+            alt="323 views"
           >
         </p>
       </td>
